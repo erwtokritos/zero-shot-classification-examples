@@ -38,8 +38,12 @@ To assess the evaluation of the proposed solutions I have extracted the most pop
 
 A processed version of these tables can be found in the `/data` folder
 
+
+
 Note 1: Some names are repeated if they are 'popular' in multiple areas
+
 Note 2: In some countries the most common names are less than 10
+
 Note 3: Israel's unisex names have been omitted
 
 
@@ -58,6 +62,9 @@ notebooks. Interested users can replicate the experiments by creating a Python 3
 - `pandas`
 - `jupyter`
  
+ 
+ 
+ Example commands:
 
 `$ virtualenv env`
 
