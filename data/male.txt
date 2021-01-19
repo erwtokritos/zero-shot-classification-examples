@@ -1,0 +1,121 @@
+Algeria	Mohamed	Abdelkader	Ahmed	Mohammed Ali	Rachid	Said	Brahim	Omar	Djamel
+Egypt Mohamed  Youssef  Ahmed  Mahmoud  Mustafa  Yassin  Taha  Khaled  Hamza  Bilal  Ibrahim  Hassan  Hussein  Karim  Tareq  Abdel-Rahman  Ali  Omar  Halim  Murad  Selim  Abdallah
+Egypt_coptic_christians Peter Pierre  George John  Mina  Beshoi Kirollos Mark Fadi Habib
+Ethiopia Paulos Petros Gabreal Giorgis Yonas Yonathan Abraham Ammanuel Markos Michael Nahom
+Equatorial_Guinea	Manuel	Juan	Antonio	José
+Libya	Mohammed	Ahmed	Ali	Hamza	Ibrahim	Mahmoud	Abdallah	Tareq	Hassan	Khaled
+Mali	Mamadou	Moussa	Mahamadou	Adama	Bakary	Abdoulaye	Modibo	Oumar	Sekou	Souleymane
+Morocco	Mohamed Youssef	Hamza	Omar	Amine	Karim	Mehdi	Yassine	Zakaria	Ali
+South_Africa	Junior	Blessing	Gift	Bandile	Prince	Siyabonga	Melokuhle	Lethabo	Banele	Samkelo
+Tunisia	Mehdi	Youssef	Aziz	Karim
+Argentina Santiago	Mateo	Juan	Matías	Nicolás	Benjamín	Pedro	Tomás	Thiago	Santino
+Aruba	Daniel	Dylan/Dyllan	Kevin/Keven
+Brazil Enzo Gabriel	João Miguel	Pedro Henrique	Miguel	Arthur	João Pedro	Heitor	João Lucas	Davi Lucas	Davi Lucca
+Canada Noah	Liam	Jackson	Lucas	Logan	Benjamin	Jacob	William	Oliver	James
+Chile Agustín	Benjamín	Vicente	Mateo	Martín	Matías	Alonso	Tomás	Maximiliano	Joaquín
+Colombia Santiago	Juan David	Juan José	Andrés Felipe	Samuel	Sebastián	Matías	Alejandro	Nicolás	Jerónimo
+Haiti Stevenson	Stanley	Samuel	Peterson	Daniel	Wilson	Jameson	Evens	Ricardo	Emmanuel
+Jamaica Jayden	Daniel	Joshua	Justin	Ajani  Jaden
+Mexico Santiago	Mateo	Matías	Diego	Sebastián	Nicolás	Miguel Ángel	Iker	Alejandro	Samuel
+Paraguay Ramón	Juan	José	Antonio	Carlos	Daniel	Luis	Javier	David	César
+Peru Luis	José	Alexander	David	Angel	Carlos	Sebastián	Daniel	Jesús	Juan
+Puerto_Rico Sebastián	Dylan	Ian	Jayden	Adrián  Angel	Luis	Mateo	Diego	Lucas	Fabian
+United_States Liam	Noah	William	James	Logan	Benjamin	Mason	Elijah	Oliver	Jacob
+Uruguay	Agustín	Matías	Santiago	Nicolás	Martín	Bruno	Francisco	Rodrigo	Mateo	Joaquín
+Venezuela Sebastián	Santiago	Samuel	Diego	Gabriel	Alejandro	Diego Alejandro	Daniel Alejandro	David	Juan Andrés
+Iraq	Ali	Muhammed	Hussein	Hydar	Ahmed	Omar	Hasan	Kathem	Abdullah	Ammar
+Israel_Jewish_boys	Ori	David	Ariel	Noam	Eitan	Yosef	Itai	Daniel	Yonatan	Lavi
+Israel_Muslim_boys	Mohammad	Ahmad	Yusuf	Omar	Adam	Jud/Jod	Abed	Ali	Amir	Ibrahim
+Israel_Christian_boys	George	Elias	Majd	Daniel	Yusuf	Hana	Julian	Charbel	Jude	Amir
+Israel_Druze_boys	Adam	Omri	Eyal	Amir	Salman	Rani	Tamir	Yosef	Bahah	Daniel
+Japan	Sō Minato Ichika	Itsuki Tatsuki	Ren	Hinata Haruta	Asahi Haruki Tomoharu	Sōta	Yuuma	Arata	Ryō	Yūto Haruto Haruhito Sōta Kanata Hayato Taichi
+Jordan	Mohammad	Ahmad	Abdul Rahman
+Kazakhstan	Yerasyl 	Alikhan  Nürasyl  	Nürislam  	Sanzhar  	Artyom  	Mïras  	Aisültan  Arsen  	Amïr 
+Kuwait Mohammad	Abdullah	Fahad	Khaled	Ali	Yousef	Ahmed	Abdulaziz	Faisal	Bader
+Lebanon	Elie	Mohammad	Charbel	Ali	Hassan	Hussein	George	Ahmad	Christian	Joe
+Malaysia Muhamad	Ahmad	Amar	Adam	Ethan	Umar	Aqil	Danish	Izz	Aidan
+Mongolia	Naranbaatar	Batkhaаn	Baаtar	Chuluun	Sukhbaаtar
+Nepal Krishna	Kiran	Bishal	Bibek	Siddhartha	Manish	Mahesh	Kamal  name 	Prem	Prakash
+Pakistan	Mohammad	Ali	Hussain	Omar	Bilal	Usman	Zahid	Shahid	Saqib	Nomaan
+Philippines Nathaniel	Gabriel	James	Francis	Joshua	Jacob	Angelo	Daniel	Alexander	John Mark
+Saudi_Arabia Mohammad	Fahd	Abdullah	Abdulrahman	Turki	Bandar	Omar	Ali
+South_Korea Min-jun   	Seo-jun   	Joo-won   	Ye-jun   	Shi-woo   	Jun-seo   	Do-yoon   	Hyun-woo   	Gun-woo   	Ji-hoon   
+Taiwan Chia-hao   	Chih-ming   	Chun-chieh   	Chien-hung   	Chun-hung   	Chih-hao   	Chih-wei   	Wen-Hsiung   	Chin-lung   	Chih-chiang   
+Tajikistan Muhammad	Yusuf	Abdullo	Abubakr	
+Thailand Somchai	Somsak	Somporn	Somboon	Prasert
+United_Arab_Emirates Mohammad	Ali	Omar	Ahmad Ahmed	Abdulla Abdullah
+Arab_world Mohamed	Ali	Ahmed 	Yousouf 	Omar Adam Abdullah Abdulrahman  Hamza 	Khalid
+China	Wei	Jie	Hao	Yi	Jun	Feng	Yong	Jian	Bin	Lei
+India	Aarav  Binod	Reyansh	Mohammad	Vivaan	Ayaan	Vihaan	Atharv	Sai	Advik	Arjun
+Iran_ babies_born_2010–2011	Amir-Ali	AbulFazl	Amir-Hossein	Ali-Mohammad	Amir-Mohammad	Mahdi	Hossein	Mohammad-Mahdi	Mohammad-Reza
+Iran Mohammad	Ali	Hossein	Mahdi	Hassan	Reza	Ahmad	Mohammad-Reza	Abbas	Ali-Reza
+Albania Noel	Joel	Mateo	Ergi	Luis	Aron	Samuel	Roan	Roel	Xhoel
+Andorra Marc	Eric	Jan	Daniel	Enzo	Ian	Pol	Àlex	Jordi	Martí
+Armenia Davit	Narek 	Gor 	Hayk 	Alex 	Arman 	Tigran 	Erik 	Samvel 	Alen 
+Austria Lukas	Maximilian	Jakob	David	Tobias	Paul	Jonas	Felix	Alexander	Elias
+Azerbaijan_(babies_born_2020)	Yusif	Ughur	Ali	Huseyn	Mahammad	Murad	Omar	Raul	Aykhan	Tunar
+Azerbaijan_(general_population_2010)	Ali	Elchin	Vugar	Anar	Elnur	Samir	Elshan	Rashad	Ilgar	Vusal
+Belarus Artsiom	Mikhail 	Maksim 	Ivan 	Roman 	Aleksandr 	Danyl 
+Belgium Lucas	Louis	Noah	Nathan	Adam	Arthur	Mohamed	Victor	Mathis	Liam
+Flanders_Belgium	Lucas	Liam	Louis	Wout	Mathis	Lars	Vince	Kobe	Finn	Noah
+Wallonia_Belgium Nathan	Hugo	Louis	Théo	Ethan	Noah	Lucas	Gabriel	Arthur	Tom
+Brussels-Capital_Region_Belgium Adam	Mohamed	Rayan	Gabriel	Anas	David	Lucas	Yanis	Nathan	Ibrahim
+Bosnia_and_Herzegovina_Federation_of_BiH  Ahmed	Daris	Amar	Davud	Adin	Hamza	Harun	Vedad	Imran	Tarik
+Bosnia_and_Herzegovina_Republika_Srpska  Stefan 	Luka 	Lazar 	Nikola 	Pavle 	David 	Marko 	Mihajlo 	Andrej 	Miloš
+Bulgaria Georgi 	Aleksandar 	Martin 	Dimitar 	Ivan 	Nikolay 	Nikola 	Daniel 	Viktor 	Kristian
+Croatia Luka	David	Ivan	Jakov	Marko	Petar	Filip	Matej	Mateo	Leon
+Cyprus Andreas 	Georgios 	Konstantinos 	Christos 	Nikolaos 	Michalis 	Panagiotis 	Ioannis 	Marios 	Dimitrios
+Czech_Republic Jakub	Jan	Tomáš	David	Adam	Matyáš	Filip	Vojtěch	Ondřej	Lukáš
+Denmark William	Noah	Oscar	Lucas	Victor	Malthe	Oliver	Alfred	Carl	Valdemar
+England_UK	Oliver	George	Harry	Jack	Jacob	Noah	Charlie	Muhammad	Thomas	Oscar
+Estonia Rasmus	Robin	Oliver	Maksim	Robert	Martin	Kaspar	Oskar	Henri	Markus
+Faroe_Islands_Denmark Benjamin	Liam  Rókur	Aron  Brandur  Fríði  Kristian  Nóa	Dávid  Elias  Filip  Mattias
+Finland_(2019_births_among_Finnish_speakers)	Leo	Elias	Oliver	Eino	Väinö	Eeli	Noel	Leevi	Onni	Hugo
+Finland_(2019_births_among_Swedish_speakers)	Emil	Liam	William	Oliver	Edvin	Max	Hugo	Benjamin	Elias	Leo
+France Gabriel	Louis	Raphaël	Jules	Adam	Lucas	Léo	Hugo	Arthur	Nathan
+Georgia Giorgi 	Nikoloz 	Andria 	Gabrieli 	Luka 	Saba 	Davit 	Aleksandre
+Germany Ben	Jonas	Leon	Elias	Finn	Noah	Paul	Luis	Lukas	Luca
+Greece Georgios 	Ioannis 	Konstantinos 	Dimitrios 	Nikolaos 	Panagiotis 	Vasileios 	Christos 	Athanasios 	Michail
+Greenland	Malik	Aputsiaq	Minik	Hans	Inunnguaq	Kristian	Nuka	Salik	Peter	Inuk
+Guernsey Charlie	Harry	William	Alexander	Lewis	Charles
+Hungary Bence	Máté	Levente	Ádám	Dávid	Dániel	Marcell	Balázs	Milán	Dominik
+Iceland Aron	Alexander	Viktor/Victor	Kristján	Jón	Guðmundur  Kristófer	Gunnar  Ólafur/Olav	Benedikt  Dagur  Emil
+Ireland Jack	James	Daniel	Conor	Seán	Adam	Noah	Michael	Charlie	Luke
+Isle_of_Man James Jamie	Joshua	Harry	Connor	Jackson	Alfie  Lucas	Benjamin  Thomas	Charles  Jake  William	Daniel  Lee  Theo
+Italy Leonardo	Francesco	Alessandro	Lorenzo	Mattia	Andrea	Gabriele	Riccardo	Tommaso	Edoardo
+Latvia Roberts	Markuss	Artjoms	Ralfs	Gustavs	Maksims	Artūrs	Aleksandrs	Emīls	Daniels
+Liechtenstein Benjamin  Elias	Raphael/Rafael	Jonas  Paul	David  Liam  Robin
+Lithuania Lukas	Matas	Nojus	Dominykas	Jokūbas	Emilis	Jonas	Kajus	Gabrielius	Dovydas
+Luxembourg  Gabriel	Leo	Luca	Noah	David	Tom	Ben	
+Republic_of_North_Macedonia Mihail	Damjan	Petar	Marko	Andrej	David	Jovan	Luka	Matej	Stefan
+Malta Luke	Matthew	Jacob	Zachary	Michael	Liam	John	Benjamin	Kaiden  Alexander	Andrew
+Moldova David	Maxim	Alexandru	Artiom	Ion	Bogdan	Daniel	Matthew	Nikita	Michael
+Monaco Gabriel	Alexandre	Lucas	Ethan	Aaron
+Montenegro_(2011_general_population)	Nikola 	Marko 	Dragan 	Miloš 	Zoran 	Milan 	Aleksandar 	Ivan 	Petar 	Luka
+Montenegro Luka 	Vuk 	Lazar 	Pavle 	Vasilije 	Petar 	Stefan 	Jovan 	Andrej 	David 
+Netherlands Daan	Noah	Sem	Lucas	Jesse	Finn	Milan	Max	Levi	Luuk
+Northern_Ireland_UK James	Jack	Noah	Charlie	Daniel	Oliver	Matthew	Harry	Thomas	Jake
+Norway William	Oskar	Lucas	Mathias	Filip	Oliver	Jakob/Jacob	Emil	Noah	Aksel
+Poland Antoni	Jakub	Jan	Szymon	Aleksander	Franciszek	Filip	Mikołaj	Wojciech	Kacper
+Portugal João	Martim	Rodrigo	Santiago	Francisco	Afonso	Tomás	Miguel	Guilherme	Gabriel
+Romania Andrei	David	Alexandru	Gabriel	Mihai	Cristian	Ștefan	Luca	Ionuț	Darius
+Moscow_Russia_(2015_births)  Alexander 	Maxim 	Artyom  Artem Mikhail 	Daniil  Danila  Danil Ivan 	Dmitry 	Kirill 	Andrey 	Yegor
+Russia Alexander 	Sergei 	Dmitry 	Andrei 	Alexey 	Maxim 	Evgeny 	Ivan 	Mikhail 	Artyom 
+Scotland_UK Jack	James	Oliver	Lewis	Logan	Harry	Noah	Leo	Charlie	Alexander
+Serbia_2011_general_population	Dragan Milan Aleksandar Zoran Nikola Miloš Marko Goran	Dušan Dejan
+Serbia Nikola Luka Stefan Marko Lazar Aleksandar Filip Jovan Nemanja Miloš
+Slovakia Jakub	Adam	Samuel	Lukáš	Martin	Tomáš	Michal	Filip	Matej	Matúš
+Slovenia Luka	Jakob	Mark	Filip	Nik	Tim	Jaka	Žan	Jan	Lovro
+Spain Hugo	Daniel	Martín	Pablo	Alejandro	Lucas	Álvaro	Adrián	Mateo	David
+Basque_Country_Spain Markel	Aimar	Jon	Ibai	Julen	Ander	Unax	Oier	Mikel	Iker
+Catalonia_Spain Marc	Àlex	Marti	Hugo	Biel	Èric	Nil	Jan	Pol	Pau
+Sweden Oscar	Lucas	William	Liam	Oliver	Hugo	Alexander	Elias	Charlie	Noah
+Switzerland Noah	Liam	Gabriel	Luca	Leon	Elias	David	Samuel	Louis	Julian
+Turkey_(Babies_born_2013)	Yusuf	Berat	Mustafa	Emir	Ahmet	Ömer	Mehmet	Muhammed	Emirhan	Eymen
+Turkey_overall	Mehmet	Mustafa	Ahmet	Ali	Hüseyin	Hasan	Ibrahim	İsmail	Osman	Yusuf
+Ukraine Artem Matviy Maksym David Nikita  Mykyta Mykhailo	Daniil  Danylo Bohdan Andriy Oleksandr
+Wales_UK Oliver	Jacob	Noah	Jack	Oscar	Harry	Charlie	Alfie	George
+Australia Oliver	William	Jack	Noah	Jackson  Jaxon  Jaxson	Thomas	Lucas	James	Alex  Alexander	Ethan
+New_Zealand Oliver	Noah	Leo	Jack	Lucas	George	James	William	Thomas	Charlie
+New_Zealand_Māori_namesNikau	Mikaere	Ari	Manaia	Mateo	Te Ariki	Taika	Ariki	Kauri	Rawiri
+Tahiti Hiro  Teiki  Moana  Manua  Marama  Teiva  Teva  Maui  Tehei  Tamatoa  Ioane  Tapuarii
