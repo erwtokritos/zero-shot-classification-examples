@@ -75,7 +75,8 @@ notebooks. Interested users can replicate the experiments by creating a Python 3
 
 <br />
 
-### References
+### References 
+(if you want to spend 2 hours reading NLP related material)
 
 - [GPT-3 paper](https://arxiv.org/abs/2005.14165) 
 - [Zero-Shot Learning in Modern NLP](https://joeddav.github.io/blog/2020/05/29/ZSL.html) 
@@ -86,3 +87,4 @@ notebooks. Interested users can replicate the experiments by creating a Python 3
 
 1. Evaluate on a larger corpus 
 2. Try few-shot instead of just zero-shot
+3. Use region-specific gender attributes e.g. `femme`, `homme` in French
