@@ -2,13 +2,16 @@ from typing import List, Dict
 from copy import deepcopy
 
 from transformers import pipeline
+import transformers
 import tensorflow_hub as hub
 import numpy as np
+
+transformers.logging.set_verbosity_error()
 
 
 class ZeroShotModel:
 
-    def _predict_item(self, inp, options: List[str]):
+    def predict_item(self, inp, options: List[str]):
         """
         Implements the actual classification per item. Each model implements its own version
         :param inp: The text item to be classified
@@ -18,7 +21,7 @@ class ZeroShotModel:
         """
         raise NotImplementedError('_predict_gender not implemented')
 
-    def _predict_list(self, inputs: List[str], options: List[str]):
+    def predict_list(self, inputs: List[str], options: List[str]):
         """
         A simple helper function which operates on a list of inputs.
         It could be omitted but I have kept it for readability
@@ -27,7 +30,7 @@ class ZeroShotModel:
         :return:
         """
         return [
-            self._predict_item(
+            self.predict_item(
                 inp=inp,
                 options=options
             )
@@ -45,7 +48,7 @@ class ZeroShotModel:
         out = deepcopy(inputs)
 
         for k, v in inputs.items():
-            out[k]['Predictions'] = self._predict_list(inputs=v['Items'], options=['Female', 'Male'])
+            out[k]['Predictions'] = self.predict_list(inputs=v['Items'], options=['Female', 'Male'])
 
         return out
 
@@ -68,7 +71,7 @@ class ZeroShotModel:
             out[k] = dict()
             out[k]['True Label'] = v['True Label']
             out[k]['Items'] = v['Items']
-            out[k]['Predictions'] = self._predict_list(inputs=v['Items'], options=regions)
+            out[k]['Predictions'] = self.predict_list(inputs=v['Items'], options=regions)
         return out
 
 
@@ -82,7 +85,7 @@ class HuggingFaceZeroShotClassifier(ZeroShotModel):
         """
         self.model = pipeline("zero-shot-classification")
 
-    def _predict_item(self, inp, options: List[str]):
+    def predict_item(self, inp, options: List[str]):
         """Implementation"""
 
         result = self.model(inp, options)
@@ -100,7 +103,7 @@ class USE4ZeroShotClassifier(ZeroShotModel):
         """
         self.model = hub.load(module_url)
 
-    def _predict_item(self, inp, options: List[str]):
+    def predict_item(self, inp, options: List[str]):
         """Implementation
         This is a simplistic implementation of zero-shot classification with USE. First, we embed the input and all
         available options and  we select the one with the smallest distance in terms of inner product (Cosine distance

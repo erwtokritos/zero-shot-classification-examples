@@ -51,7 +51,7 @@ Note 3: Israel's unisex names have been omitted
 
 ### Project setup
 The structure of this repo is simple because the investigation is organised into Jupyter 
-notebooks. Interested users can replicate the experiments by creating a Python 3 environment
+notebooks. You can replicate the experiments by creating a Python 3 environment
 (virtualenv, Pipenv, ...) and installing the following dependencies:
 
 - `tensorflow`
@@ -62,17 +62,25 @@ notebooks. Interested users can replicate the experiments by creating a Python 3
 - `pandas`
 - `jupyter`
  
+ Here, I am describing a setup using the awesome [poetry](https://python-poetry.org/) tool.
+You can install it by following the steps in the [site](https://python-poetry.org/docs/)
  
- 
- Example commands:
+ Then run:
 
-`$ virtualenv env`
+`poetry install`
 
-`$ . env/bin/activate`
+To create the virtual env and install the module then 
 
-`$ pip install tensorflow transformers tensorflow_hub sklearn numpy pandas jupyter`
+`poetry shell`
 
+to activate the virtual env
 
+and finally 
+
+`predict <name>` e.g. `predict Thanos`
+
+Note: The first time you run it, it will take some time to download all the 
+necessary pretrained NLP models
 <br />
 
 ### References

@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "zeroshot"
+version = "0.1.0"
+description = "Zero-shot classification examples"
+authors = ["Thanos Papaoikonomou <thanos.papaoikonomou@gmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+tensorflow = "^2.4.1"
+transformers = "^4.2.2"
+tensorflow-hub = "^0.11.0"
+scikit-learn = "^0.24.1"
+numpy = "^1.19.5"
+pandas = "^1.2.1"
+jupyter = "^1.0.0"
+typer = "^0.3.2"
+torch = "^1.7.1"
+
+[tool.poetry.dev-dependencies]
+
+[tool.poetry.scripts]
+predict = "zeroshot.__main__:main"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
