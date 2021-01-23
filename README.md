@@ -63,7 +63,7 @@ notebooks. You can replicate the experiments by creating a Python 3 environment
 - `jupyter`
  
  Here, I am describing a setup using the awesome [poetry](https://python-poetry.org/) tool.
-You can install it by following the steps in the [site](https://python-poetry.org/docs/)
+You can install it by following the [instructions](https://python-poetry.org/docs/)
  
  Then run:
 
@@ -77,7 +77,12 @@ to activate the virtual env
 
 and finally 
 
-`predict <name>` e.g. `predict Thanos`
+`predict <name>` e.g. 
+
+`predict Thanos Mary` (Huggingface backend)
+or 
+
+`predict John Aggeliki --use4` (Universal Sentence Encoder backend)
 
 Note: The first time you run it, it will take some time to download all the 
 necessary pretrained NLP models
