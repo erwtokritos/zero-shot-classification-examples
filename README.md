@@ -73,16 +73,17 @@ To create the virtual env and install the module then
 
 `poetry shell`
 
-to activate the virtual env
+to activate the poetry virtual env
 
-and finally 
+and finally you can give a (space separated) list of names for gender prediction by specifying the
+backend NLP model as
 
-`predict <name>` e.g. 
+`predict <name> --use4` e.g. 
 
-`predict Thanos Mary` (Huggingface backend)
+`predict George Donald Mary Georgia` (no flag by default Huggingface backend)
 or 
 
-`predict John Aggeliki --use4` (Universal Sentence Encoder backend)
+`predict Thanos Dimitris Aggeliki --use4` (Universal Sentence Encoder backend)
 
 Note: The first time you run it, it will take some time to download all the 
 necessary pretrained NLP models
