@@ -1,8 +1,7 @@
 # Zero-shot classification using pretrained NLP models
 
-This repo explores the performance of modern pretrained NLP models on a simplistic zero-shot 
-classification task. The goal is to predict the gender of an individual given their name. Really simple 
-and really dull :)
+This repo explores the performance of modern pretrained NLP models on a simple zero-shot 
+classification task where the goal is to predict the gender of an individual given their name. 
 
 It is truly amazing the fact that we can leverage knowledge which is freely available over the web, 
 'compress' it as a language model (along with other auxiliary tasks) 
