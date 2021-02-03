@@ -45,6 +45,8 @@ Note 2: In some countries the most common names are less than 10
 
 Note 3: Israel's unisex names have been omitted
 
+The evaluation is included in the Jupyter notebook (`Zero-shot examples.ipynb`)
+
 
 <br />
 
