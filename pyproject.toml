@@ -2,7 +2,7 @@
 name = "zeroshot"
 version = "0.1.0"
 description = "Zero-shot classification examples"
-authors = ["Thanos Papaoikonomou <thanos.papaoikonomou@gmail.com>"]
+authors = []
 license = "MIT"
 
 [tool.poetry.dependencies]
